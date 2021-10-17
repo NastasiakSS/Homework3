@@ -1,0 +1,40 @@
+html {
+    margin: 0px;
+
+}
+h1 {
+
+    text-align: center;
+    background: cadetblue;
+
+}
+
+h2 {
+   background: aquamarine;
+   text-align: center;
+
+}
+
+h3{
+    background: cornflowerblue;
+    text-align: center;
+
+
+
+}
+
+.bmw-logo{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+
+}
+
+.about-bmw{
+
+    background: aliceblue;
+
+
+}
